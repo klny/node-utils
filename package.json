@@ -1,0 +1,24 @@
+{
+  "name": "node-utils",
+  "version": "0.0.1",
+  "description": "JS utils for node",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/klny/node-utils.git"
+  },
+  "keywords": [
+    "node",
+    "utils",
+    "javascript"
+  ],
+  "author": "Karol",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/klny/node-utils/issues"
+  },
+  "homepage": "https://github.com/klny/node-utils#readme"
+}
